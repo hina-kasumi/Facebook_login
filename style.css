@@ -28,7 +28,7 @@ a {
     align-items: center;
     flex-wrap: wrap;
     align-content: center;
-    
+    min-width: 396px;
 }
 
 .facebook__name {
